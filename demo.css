@@ -1,0 +1,45 @@
+body {
+    background-image: url(namur/lghtmesh.png); background-repeat: repeat;
+    color: #333;
+    font: 300 100.1% "Helvetica Neue", Helvetica, "Arial Unicode MS", Arial, sans-serif;
+}
+
+
+#holder {
+    height: 480px;
+    left: 50%;
+    margin: -240px 0 0 -320px;
+    position: absolute;
+    top: 50%;
+    width: 640px;
+}
+#copy {
+    bottom: 0;
+    font: 300 .7em "Helvetica Neue", Helvetica, "Arial Unicode MS", Arial, sans-serif;
+    position: absolute;
+    right: 1em;
+    text-align: right;
+}
+#copy a {
+    color: #fff;
+}
+
+tspan {
+    font-family : "Helvetica Neue";
+}
+
+#popup {
+    color: black;
+    font-family : "Helvetica Neue";
+    border-radius: 5px;
+    border: 1px solid #515151;
+    background: white;
+    margin: 10px;
+    padding: 10px;
+    font-size:14px;
+
+    position:absolute;
+
+    z-index: 102;
+
+}
