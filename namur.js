@@ -62,6 +62,19 @@ function get_over_handler(town, time)
     popup.html("<div>"+town + " " +hourString +":"+minuteString+  "</div>");
     }
 }
+function get_over_handler2(path)
+{
+    return function(){
+      path.animate({"stroke":"red","stroke-width":2},333)
+    };
+}
+
+function get_out_handler2(path)
+{
+    return function(){
+      path.animate({"stroke":"#fff","stroke-width":1},333)
+    };
+}
 
 function hide_popup()
 {
@@ -89,7 +102,9 @@ $(function () {
                     move = "L"
                 path = path + " " + move + " " + x + " " + y;
             }
-            paper.path(path).attr({stroke:"#fff",zIndex:"-1"});
+            var p =  paper.path(path).attr({stroke:"#fff"});
+            $(p.node).mousemove(get_over_handler2(p));
+            $(p.node).mouseout(get_out_handler2(p));
         }
     });
 
