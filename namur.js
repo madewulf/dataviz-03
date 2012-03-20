@@ -66,6 +66,7 @@ function get_over_handler2(path)
 {
     return function(){
       path.animate({"stroke":"red","stroke-width":2},333)
+      path.toFront();
     };
 }
 
@@ -73,6 +74,7 @@ function get_out_handler2(path)
 {
     return function(){
       path.animate({"stroke":"#fff","stroke-width":1},333)
+        path.toBack();
     };
 }
 
@@ -91,7 +93,7 @@ $(function () {
                 var stop = train[j];
                 var x = convert_time_to_x(stop[1]);
                 var y = convert_distanceto_y(stop[0]);
-                var circle = paper.circle(x, y, 3);
+                var circle = paper.circle(x, y, 4);
                 circle.attr("fill", "#f00");
                 $(circle.node).mousemove( get_over_handler(stop[0],stop[1]));
                 $(circle.node).mouseout(hide_popup);
@@ -102,9 +104,10 @@ $(function () {
                     move = "L"
                 path = path + " " + move + " " + x + " " + y;
             }
-            var p =  paper.path(path).attr({stroke:"#fff"});
+            var p =  paper.path(path).attr({stroke:"#fff","stroke-width":2});
             $(p.node).mousemove(get_over_handler2(p));
             $(p.node).mouseout(get_out_handler2(p));
+            p.toBack();
         }
     });
 
