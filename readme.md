@@ -1,5 +1,7 @@
-### Code used for the dataviz03 workshop
+# Code used for the dataviz03 workshop
 
-Snippets used to build the demo visualization + the final visualization (namur.html)
+Snippets used during the talk and to build the demo visualization +  the final visualization
 
-http://dwm.infographie-sup.be/dataviz03/
+[Site of the workshop](http://dwm.infographie-sup.be/dataviz03/)
+
+[Final visualization](http://madewulf.github.com/dataviz03/namur.html)
