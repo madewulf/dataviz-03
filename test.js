@@ -44,7 +44,6 @@ hours = {
     "23":1332194400.0
 };
 
-
 var width = 2400;
 var height = 768;
 var min_time = 1332129720;
@@ -61,58 +60,35 @@ function time_to_x(time) {
     return (( time - min_time) / (max_time - min_time)) * (width - 190) + 180;
 }
 
-function FormatNumberLength(num, length) {
-    var r = "" + num;
-    while (r.length < length) {
-        r = "0" + r;
-    }
-    return r;
-}
-
-function get_station_hover_handler(town, time) {
-    return function (event) {
-        var popup = $("#popup");
-        popup.show();
-        popup.css("top", event.pageY);
-        popup.css("left", event.pageX);
-        var d = new Date(time * 1000);
-        var hourString = FormatNumberLength(d.getHours(), 2);
-        var minuteString = FormatNumberLength(d.getMinutes(), 2);
-        popup.html("<div>" + town + " " + hourString + ":" + minuteString + "</div>");
-    }
-}
-function get_train_hover_handler(path) {
-    return function () {
-        path.animate({"stroke":"red", "stroke-width":2}, 333)
-        path.toFront();
-    };
-}
-
-function get_train_out_handler(path) {
-    return function () {
-        path.animate({"stroke":"#fff", "stroke-width":1}, 333)
-        path.toBack();
-    };
-}
-
-function hide_popup() {
-    $("#popup").hide();
-}
-
 $(function () {
     var paper = new Raphael(document.getElementById('container'), 2400, 768);
+
+    for (var town in distances) {
+        var y = station_to_y(town);
+        var t = paper.text(100, y, town);
+        t.attr({stroke:"#fff",fill:"#fff","font-size":14});
+        var path = "M 180 " + y + " H " + 2400 ;
+        paper.path(path).attr({"stroke":"#666"});
+    }
+
+    for (var hour in hours) {
+        var x = time_to_x(hours[hour]);
+        var t = paper.text(x, 10, hour + "h");
+        t.attr({fill:"#fff", stroke:"#fff", "font-size":14});
+        var path = "M  " + x + " 30  V " + 768;
+        paper.path(path).attr({"stroke":"#666"});
+    }
+
     $.getJSON("namur/trains.json", function (trains) {
         for (var i = 0; i < trains.length; i++) {
             var train = trains[i];
             var path = "";
             for (var j = 0; j < train.length; j++) {
                 var stop = train[j];
-                var x = time_to_x(stop[1]);
-                var y = station_to_y(stop[0]);
+                var x = time_to_x(stop[1]);/*stop[1] : 1332166380*/
+                var y = station_to_y(stop[0]); /*stop[0]: "Gembloux" */
                 var circle = paper.circle(x, y, 4);
                 circle.attr("fill", "#f00");
-                $(circle.node).mousemove(get_station_hover_handler(stop[0], stop[1]));
-                $(circle.node).mouseout(hide_popup);
                 var move;
                 if (j == 0)
                     move = "M";
@@ -121,23 +97,7 @@ $(function () {
                 path = path + " " + move + " " + x + " " + y;
             }
             var p = paper.path(path).attr({stroke:"#fff", "stroke-width":2});
-            $(p.node).mousemove(get_train_hover_handler(p));
-            $(p.node).mouseout(get_train_out_handler(p));
             p.toBack();
         }
     });
-
-    for (var town in distances) {
-        var y = station_to_y(town);
-        paper.text(100, y, town).attr({fill:"#fff", stroke:"#fff", "font-size":14});
-        var path = "M 180 " + y + " H " + 2400;
-        paper.path(path).attr({"stroke":"#666"});
-    }
-
-    for (var hour in hours) {
-        var x = time_to_x(hours[hour]);
-        paper.text(x, 10, hour + "h").attr({fill:"#fff", stroke:"#fff", "font-size":14});
-        var path = "M  " + x + " 30  V " + 768;
-        paper.path(path).attr({"stroke":"#666"});
-    }
 });

@@ -1,1 +1,1601 @@
-[[["Bruxelles Luxembourg", 1332165240], ["Ottignies", 1332166380], ["Gembloux", 1332167160], ["Namur", 1332167940]], [["Bruxelles Luxembourg", 1332134640], ["Ottignies", 1332135780], ["Gembloux", 1332136500], ["Namur", 1332137340]], [["Ottignies", 1332168540], ["Gembloux", 1332169380], ["Namur", 1332170160]], [["Bruxelles Luxembourg", 1332139260], ["Etterbeek", 1332139500], ["Boitsfort", 1332139740], ["Groenendael", 1332139980], ["La Hulpe", 1332140220], ["Genval", 1332140400], ["Rixensart", 1332140520], ["Ottignies", 1332140880]], [["Ottignies", 1332172800], ["Gembloux", 1332173580], ["Namur", 1332174420]], [["Bruxelles Luxembourg", 1332185040], ["Ottignies", 1332186180], ["Gembloux", 1332186900], ["Namur", 1332187740]], [["Gembloux", 1332196200], ["Lonzee", 1332196440], ["Beuzet", 1332196620], ["Saint Denis Bovesse", 1332196800], ["Rhisnes", 1332197040], ["Namur", 1332197460]], [["Bruxelles Luxembourg", 1332169380], ["Etterbeek", 1332169620]], [["Bruxelles Luxembourg", 1332144180], ["Etterbeek", 1332144420]], [["Gembloux", 1332170820], ["Namur", 1332171600]], [["Bruxelles Luxembourg", 1332172920], ["Etterbeek", 1332173160], ["Boitsfort", 1332173460], ["Hoeilaart", 1332173760], ["Genval", 1332174060], ["Rixensart", 1332174240], ["Ottignies", 1332174720]], [["Bruxelles Luxembourg", 1332157260], ["Etterbeek", 1332157440], ["Boitsfort", 1332157740], ["La Hulpe", 1332158160], ["Genval", 1332158340], ["Rixensart", 1332158520], ["Ottignies", 1332158880]], [["Bruxelles Luxembourg", 1332135060], ["Namur", 1332137640]], [["Ottignies", 1332186480], ["Mont Saint Guibert", 1332186900], ["Blanmont", 1332187080], ["Chastre", 1332187200], ["Ernage", 1332187380], ["Gembloux", 1332187740]], [["Bruxelles Luxembourg", 1332142020], ["Etterbeek", 1332142260]], [["Gembloux", 1332156600], ["Lonzee", 1332156840], ["Beuzet", 1332157020], ["Saint Denis Bovesse", 1332157200], ["Rhisnes", 1332157440], ["Namur", 1332157860]], [["Bruxelles Luxembourg", 1332183240], ["Ottignies", 1332184380], ["Gembloux", 1332185160], ["Namur", 1332185940]], [["Bruxelles Luxembourg", 1332146700], ["Etterbeek", 1332146940]], [["Bruxelles Luxembourg", 1332175260], ["Etterbeek", 1332175500], ["La Hulpe", 1332176100], ["Genval", 1332176340], ["Rixensart", 1332176520], ["Ottignies", 1332176880]], [["Gembloux", 1332176700], ["Namur", 1332177360]], [["Bruxelles Luxembourg", 1332163440], ["Ottignies", 1332164580], ["Gembloux", 1332165300], ["Namur", 1332166140]], [["Gembloux", 1332178020], ["Namur", 1332178800]], [["Bruxelles Luxembourg", 1332147780], ["Etterbeek", 1332148020]], [["Bruxelles Luxembourg", 1332175500], ["Etterbeek", 1332175740]], [["Bruxelles Luxembourg", 1332176280], ["Etterbeek", 1332176460], ["Boitsfort", 1332176820], ["Hoeilaart", 1332177180], ["Genval", 1332177480], ["Rixensart", 1332177660], ["Ottignies", 1332178140]], [["Bruxelles Luxembourg", 1332135660], ["Etterbeek", 1332135900], ["Boitsfort", 1332136140], ["La Hulpe", 1332136560], ["Genval", 1332136740], ["Rixensart", 1332136920], ["Ottignies", 1332137280]], [["Bruxelles Luxembourg", 1332150060], ["Etterbeek", 1332150240], ["Boitsfort", 1332150540], ["La Hulpe", 1332150960], ["Genval", 1332151140], ["Rixensart", 1332151320], ["Ottignies", 1332151680]], [["Ottignies", 1332188100], ["Gembloux", 1332188760], ["Namur", 1332189540]], [["Bruxelles Luxembourg", 1332165780], ["Etterbeek", 1332166020]], [["Gembloux", 1332167220], ["Namur", 1332167940]], [["Bruxelles Luxembourg", 1332161640], ["Ottignies", 1332162780], ["Gembloux", 1332163560], ["Namur", 1332164340]], [["Bruxelles Luxembourg", 1332153660], ["Etterbeek", 1332153840], ["Boitsfort", 1332154140], ["La Hulpe", 1332154560], ["Genval", 1332154740], ["Rixensart", 1332154920], ["Ottignies", 1332155280]], [["Bruxelles Luxembourg", 1332168300], ["Etterbeek", 1332168540]], [["Ottignies", 1332136500], ["Mont Saint Guibert", 1332136980], ["Blanmont", 1332137220], ["Chastre", 1332137400], ["Ernage", 1332137640], ["Gembloux", 1332138120]], [["Gembloux", 1332173700], ["Namur", 1332174420]], [["Bruxelles Luxembourg", 1332140040], ["Ottignies", 1332141180], ["Gembloux", 1332141900], ["Namur", 1332142740]], [["Gembloux", 1332172800], ["Lonzee", 1332173040], ["Beuzet", 1332173220], ["Saint Denis Bovesse", 1332173400], ["Rhisnes", 1332173640], ["Namur", 1332174000]], [["Ottignies", 1332141300], ["Gembloux", 1332141900], ["Namur", 1332142740]], [["Ottignies", 1332189900], ["Gembloux", 1332190500], ["Namur", 1332191340]], [["Bruxelles Luxembourg", 1332133260], ["Etterbeek", 1332133440], ["Watermael", 1332133740], ["Boitsfort", 1332133920], ["Groenendael", 1332134160], ["Hoeilaart", 1332134280], ["La Hulpe", 1332134460], ["Genval", 1332134700], ["Rixensart", 1332134880], ["Ottignies", 1332135360]], [["Gembloux", 1332165420], ["Namur", 1332166140]], [["Bruxelles Luxembourg", 1332159840], ["Ottignies", 1332160980], ["Gembloux", 1332161700], ["Namur", 1332162540]], [["Gembloux", 1332158220], ["Namur", 1332158940]], [["Ottignies", 1332166500], ["Gembloux", 1332167160], ["Namur", 1332167940]], [["Bruxelles Luxembourg", 1332174900], ["Etterbeek", 1332175080], ["Boitsfort", 1332175440], ["Groenendael", 1332175680], ["La Hulpe", 1332175920], ["Ottignies", 1332176580]], [["Bruxelles Luxembourg", 1332144960], ["Etterbeek", 1332145140]], [["Bruxelles Luxembourg", 1332132060], ["Etterbeek", 1332132240], ["Boitsfort", 1332132540], ["La Hulpe", 1332132960], ["Genval", 1332133140], ["Rixensart", 1332133320], ["Ottignies", 1332133680]], [["Ottignies", 1332154080], ["Mont Saint Guibert", 1332154500], ["Blanmont", 1332154680], ["Chastre", 1332154800], ["Ernage", 1332154980], ["Gembloux", 1332155340]], [["Bruxelles Luxembourg", 1332177840], ["Ottignies", 1332178980], ["Gembloux", 1332179700], ["Namur", 1332180540]], [["Ottignies", 1332191700], ["Gembloux", 1332192360], ["Namur", 1332193140]], [["Bruxelles Luxembourg", 1332162180], ["Etterbeek", 1332162420]], [["Gembloux", 1332189000], ["Lonzee", 1332189240], ["Beuzet", 1332189420], ["Saint Denis Bovesse", 1332189600], ["Rhisnes", 1332189900], ["Namur", 1332190380]], [["Gembloux", 1332163620], ["Namur", 1332164340]], [["Bruxelles Luxembourg", 1332158040], ["Ottignies", 1332159180], ["Gembloux", 1332159960], ["Namur", 1332160740]], [["Ottignies", 1332168300], ["Gembloux", 1332168960], ["Namur", 1332169740]], [["Bruxelles Luxembourg", 1332173100], ["Etterbeek", 1332173340], ["Watermael", 1332173580], ["Boitsfort", 1332173760], ["Groenendael", 1332174000], ["La Hulpe", 1332174240], ["Rixensart", 1332174540], ["Ottignies", 1332174900]], [["Gembloux", 1332149400], ["Lonzee", 1332149640], ["Beuzet", 1332149820], ["Saint Denis Bovesse", 1332150000], ["Rhisnes", 1332150240], ["Namur", 1332150660]], [["Bruxelles Luxembourg", 1332176040], ["Ottignies", 1332177180], ["Gembloux", 1332177960], ["Namur", 1332178800]], [["Ottignies", 1332193500], ["Gembloux", 1332194100], ["Namur", 1332194940]], [["Bruxelles Luxembourg", 1332187260], ["Etterbeek", 1332187440], ["Watermael", 1332187740], ["Boitsfort", 1332187920], ["Groenendael", 1332188160], ["Hoeilaart", 1332188280], ["La Hulpe", 1332188460], ["Genval", 1332188700], ["Rixensart", 1332188880], ["Ottignies", 1332189360]], [["Ottignies", 1332190080], ["Mont Saint Guibert", 1332190500], ["Blanmont", 1332190680], ["Chastre", 1332190800], ["Ernage", 1332190980], ["Gembloux", 1332191340]], [["Bruxelles Luxembourg", 1332156240], ["Ottignies", 1332157380], ["Gembloux", 1332158100], ["Namur", 1332158940]], [["Bruxelles Luxembourg", 1332189660], ["Etterbeek", 1332189840], ["Boitsfort", 1332190140], ["La Hulpe", 1332190560], ["Genval", 1332190740], ["Rixensart", 1332190920], ["Ottignies", 1332191280]], [["Gembloux", 1332176820], ["Lonzee", 1332177060], ["Beuzet", 1332177240], ["Saint Denis Bovesse", 1332177420], ["Rhisnes", 1332177660], ["Namur", 1332178080]], [["Ottignies", 1332170100], ["Gembloux", 1332170760], ["Namur", 1332171600]], [["Bruxelles Luxembourg", 1332140580], ["Etterbeek", 1332140820]], [["Gembloux", 1332175020], ["Lonzee", 1332175260], ["Beuzet", 1332175440], ["Saint Denis Bovesse", 1332175620], ["Rhisnes", 1332175860], ["Namur", 1332176280]], [["Bruxelles Luxembourg", 1332179640], ["Ottignies", 1332180780], ["Gembloux", 1332181560], ["Namur", 1332182340]], [["Bruxelles Luxembourg", 1332136440], ["Ottignies", 1332137580], ["Gembloux", 1332138360], ["Namur", 1332139140]], [["Gembloux", 1332131400], ["Lonzee", 1332131640], ["Beuzet", 1332131820], ["Saint Denis Bovesse", 1332132000], ["Rhisnes", 1332132240], ["Namur", 1332132660]], [["Ottignies", 1332157680], ["Mont Saint Guibert", 1332158100], ["Blanmont", 1332158280], ["Chastre", 1332158400], ["Ernage", 1332158580], ["Gembloux", 1332158940]], [["Bruxelles Luxembourg", 1332174240], ["Ottignies", 1332175380], ["Gembloux", 1332176160], ["Namur", 1332176940]], [["Gembloux", 1332139500], ["Lonzee", 1332139740], ["Beuzet", 1332139920], ["Saint Denis Bovesse", 1332140100], ["Rhisnes", 1332140280], ["Namur", 1332140760]], [["Ottignies", 1332180900], ["Gembloux", 1332181560], ["Namur", 1332182340]], [["Bruxelles Luxembourg", 1332170100], ["Etterbeek", 1332170280]], [["Ottignies", 1332138120], ["Mont Saint Guibert", 1332138600], ["Blanmont", 1332138780], ["Chastre", 1332138960], ["Ernage", 1332139200], ["Gembloux", 1332139380], ["Lonzee", 1332139740], ["Beuzet", 1332139920], ["Saint Denis Bovesse", 1332140100], ["Rhisnes", 1332140280], ["Namur", 1332140760]], [["Bruxelles Luxembourg", 1332137760], ["Etterbeek", 1332137940]], [["Ottignies", 1332171900], ["Gembloux", 1332172560], ["Namur", 1332173340]], [["Bruxelles Luxembourg", 1332169500], ["Etterbeek", 1332169740], ["Watermael", 1332169980], ["Boitsfort", 1332170160], ["Groenendael", 1332170400], ["Hoeilaart", 1332170520], ["La Hulpe", 1332170760], ["Genval", 1332170940], ["Rixensart", 1332171120], ["Ottignies", 1332171600]], [["Gembloux", 1332174780], ["Namur", 1332175560]], [["Bruxelles Luxembourg", 1332182460], ["Etterbeek", 1332182640], ["Boitsfort", 1332182940], ["La Hulpe", 1332183360], ["Genval", 1332183540], ["Rixensart", 1332183720], ["Ottignies", 1332184080]], [["Gembloux", 1332145800], ["Lonzee", 1332146040], ["Beuzet", 1332146220], ["Saint Denis Bovesse", 1332146400], ["Rhisnes", 1332146640], ["Namur", 1332147060]], [["Bruxelles Luxembourg", 1332172740], ["Ottignies", 1332173820], ["Gembloux", 1332174660], ["Namur", 1332175560]], [["Gembloux", 1332142200], ["Lonzee", 1332142440], ["Beuzet", 1332142620], ["Saint Denis Bovesse", 1332142800], ["Rhisnes", 1332143040], ["Namur", 1332143460]], [["Bruxelles Luxembourg", 1332171120], ["Etterbeek", 1332171360], ["Ottignies", 1332172620], ["Gembloux", 1332173580], ["Namur", 1332174420]], [["Bruxelles Luxembourg", 1332172440], ["Ottignies", 1332173580], ["Gembloux", 1332174360], ["Namur", 1332175200]], [["Gembloux", 1332171960], ["Namur", 1332172740]], [["Ottignies", 1332182700], ["Gembloux", 1332183300], ["Namur", 1332184140]], [["Bruxelles Luxembourg", 1332183660], ["Etterbeek", 1332183840], ["Watermael", 1332184140], ["Boitsfort", 1332184320], ["Groenendael", 1332184560], ["Hoeilaart", 1332184680], ["La Hulpe", 1332184860], ["Genval", 1332185100], ["Rixensart", 1332185280], ["Ottignies", 1332185760]], [["Ottignies", 1332193680], ["Mont Saint Guibert", 1332194100], ["Blanmont", 1332194280], ["Chastre", 1332194400], ["Ernage", 1332194580], ["Gembloux", 1332194940]], [["Bruxelles Luxembourg", 1332152640], ["Ottignies", 1332153780], ["Gembloux", 1332154500], ["Namur", 1332155340]], [["Ottignies", 1332146880], ["Mont Saint Guibert", 1332147300], ["Blanmont", 1332147480], ["Chastre", 1332147600], ["Ernage", 1332147780], ["Gembloux", 1332148140]], [["Ottignies", 1332159300], ["Gembloux", 1332159960], ["Namur", 1332160740]], [["Bruxelles Luxembourg", 1332136980], ["Etterbeek", 1332137220]], [["Ottignies", 1332170280], ["Mont Saint Guibert", 1332170700], ["Blanmont", 1332170880], ["Chastre", 1332171060], ["Ernage", 1332171240], ["Gembloux", 1332171540]], [["Bruxelles Luxembourg", 1332140520], ["Etterbeek", 1332140700], ["Watermael", 1332141000], ["Boitsfort", 1332141120], ["Groenendael", 1332141360], ["Hoeilaart", 1332141480], ["La Hulpe", 1332141660], ["Genval", 1332141900], ["Rixensart", 1332142080], ["Ottignies", 1332142560]], [["Bruxelles Luxembourg", 1332171660], ["Etterbeek", 1332171840], ["La Hulpe", 1332172500], ["Genval", 1332172740], ["Rixensart", 1332172920], ["Ottignies", 1332173280]], [["Bruxelles Luxembourg", 1332170640], ["Ottignies", 1332171780], ["Gembloux", 1332172560], ["Namur", 1332173340]], [["Bruxelles Luxembourg", 1332149040], ["Ottignies", 1332150180], ["Gembloux", 1332150900], ["Namur", 1332151740]], [["Ottignies", 1332184500], ["Gembloux", 1332185160], ["Namur", 1332185940]], [["Bruxelles Luxembourg", 1332173820], ["Etterbeek", 1332174000]], [["Gembloux", 1332156420], ["Namur", 1332157140]], [["Bruxelles Luxembourg", 1332150840], ["Ottignies", 1332151980], ["Gembloux", 1332152760], ["Namur", 1332153540]], [["Gembloux", 1332181800], ["Lonzee", 1332182040], ["Beuzet", 1332182220], ["Saint Denis Bovesse", 1332182400], ["Rhisnes", 1332182640], ["Namur", 1332183060]], [["Ottignies", 1332161100], ["Gembloux", 1332161700], ["Namur", 1332162540]], [["Bruxelles Luxembourg", 1332142860], ["Etterbeek", 1332143100], ["Boitsfort", 1332143340], ["Groenendael", 1332143580], ["La Hulpe", 1332143820], ["Genval", 1332144000], ["Rixensart", 1332144120], ["Ottignies", 1332144480]], [["Gembloux", 1332194220], ["Namur", 1332194940]], [["Ottignies", 1332176100], ["Mont Saint Guibert", 1332176520], ["Blanmont", 1332176700], ["Chastre", 1332176820], ["Ernage", 1332177000], ["Gembloux", 1332177360]], [["Gembloux", 1332178260], ["Lonzee", 1332178500], ["Beuzet", 1332178680], ["Saint Denis Bovesse", 1332178860], ["Rhisnes", 1332179100], ["Namur", 1332179520]], [["Bruxelles Luxembourg", 1332168840], ["Ottignies", 1332169980], ["Gembloux", 1332170760], ["Namur", 1332171600]], [["Ottignies", 1332186300], ["Gembloux", 1332186900], ["Namur", 1332187740]], [["Bruxelles Luxembourg", 1332180060], ["Etterbeek", 1332180240], ["Watermael", 1332180540], ["Boitsfort", 1332180720], ["Groenendael", 1332180960], ["Hoeilaart", 1332181080], ["La Hulpe", 1332181260], ["Genval", 1332181500], ["Rixensart", 1332181680], ["Ottignies", 1332182160]], [["Bruxelles Luxembourg", 1332167340], ["Ottignies", 1332168480], ["Gembloux", 1332169380], ["Namur", 1332170160]], [["Gembloux", 1332154620], ["Namur", 1332155340]], [["Bruxelles Luxembourg", 1332136860], ["Etterbeek", 1332137040], ["Watermael", 1332137340], ["Boitsfort", 1332137520], ["Groenendael", 1332137760], ["Hoeilaart", 1332137880], ["La Hulpe", 1332138060], ["Genval", 1332138300], ["Rixensart", 1332138480], ["Ottignies", 1332138960]], [["Ottignies", 1332162900], ["Gembloux", 1332163560], ["Namur", 1332164340]], [["Gembloux", 1332192420], ["Namur", 1332193140]], [["Bruxelles Luxembourg", 1332144600], ["Etterbeek", 1332144840]], [["Bruxelles Luxembourg", 1332132840], ["Ottignies", 1332133980], ["Gembloux", 1332134700], ["Namur", 1332135540]], [["Bruxelles Luxembourg", 1332182700], ["Etterbeek", 1332182940]], [["Ottignies", 1332150480], ["Mont Saint Guibert", 1332150900], ["Blanmont", 1332151080], ["Chastre", 1332151200], ["Ernage", 1332151380], ["Gembloux", 1332151740]], [["Bruxelles Luxembourg", 1332159360], ["Etterbeek", 1332159540]], [["Gembloux", 1332169020], ["Namur", 1332169740]], [["Ottignies", 1332173700], ["Gembloux", 1332174360], ["Namur", 1332175200]], [["Bruxelles Luxembourg", 1332178260], ["Namur", 1332180840]], [["Gembloux", 1332152820], ["Namur", 1332153540]], [["Bruxelles Luxembourg", 1332155760], ["Etterbeek", 1332155940]], [["Ottignies", 1332164700], ["Gembloux", 1332165300], ["Namur", 1332166140]], [["Bruxelles Luxembourg", 1332143100], ["Etterbeek", 1332143340]], [["Gembloux", 1332190620], ["Namur", 1332191340]], [["Bruxelles Luxembourg", 1332173520], ["Etterbeek", 1332173820], ["Ottignies", 1332175080], ["Gembloux", 1332175920], ["Namur", 1332176760]], [["Gembloux", 1332181620], ["Namur", 1332182340]], [["Ottignies", 1332179700], ["Mont Saint Guibert", 1332180120], ["Blanmont", 1332180300], ["Chastre", 1332180420], ["Ernage", 1332180600], ["Gembloux", 1332180840]], [["Ottignies", 1332175500], ["Gembloux", 1332176160], ["Namur", 1332176940]], [["Bruxelles Luxembourg", 1332161100], ["Etterbeek", 1332161340]], [["Gembloux", 1332151020], ["Namur", 1332151740]], [["Bruxelles Luxembourg", 1332145440], ["Ottignies", 1332146580], ["Gembloux", 1332147300], ["Namur", 1332148140]], [["Gembloux", 1332136620], ["Namur", 1332137340]], [["Ottignies", 1332152100], ["Gembloux", 1332152760], ["Namur", 1332153540]], [["Gembloux", 1332188820], ["Namur", 1332189540]], [["Bruxelles Luxembourg", 1332188640], ["Ottignies", 1332189780], ["Gembloux", 1332190500], ["Namur", 1332191340]], [["Ottignies", 1332143100], ["Gembloux", 1332143700], ["Namur", 1332144540]], [["Bruxelles Luxembourg", 1332194460], ["Etterbeek", 1332194640], ["Watermael", 1332194940], ["Boitsfort", 1332195120], ["Groenendael", 1332195360], ["Hoeilaart", 1332195480], ["La Hulpe", 1332195660], ["Genval", 1332195900], ["Rixensart", 1332196080], ["Ottignies", 1332196560]], [["Ottignies", 1332139680], ["Mont Saint Guibert", 1332140100], ["Blanmont", 1332140280], ["Chastre", 1332140400], ["Ernage", 1332140580], ["Gembloux", 1332140940]], [["Bruxelles Luxembourg", 1332171900], ["Etterbeek", 1332172140]], [["Gembloux", 1332153000], ["Lonzee", 1332153240], ["Beuzet", 1332153420], ["Saint Denis Bovesse", 1332153600], ["Rhisnes", 1332153840], ["Namur", 1332154260]], [["Ottignies", 1332177300], ["Gembloux", 1332177960], ["Namur", 1332178800]], [["Bruxelles Luxembourg", 1332174660], ["Ottignies", 1332175800], ["Gembloux", 1332176580], ["Namur", 1332177360]], [["Bruxelles Luxembourg", 1332158460], ["Etterbeek", 1332158640], ["Watermael", 1332158940], ["Boitsfort", 1332159120], ["Groenendael", 1332159360], ["Hoeilaart", 1332159480], ["La Hulpe", 1332159660], ["Genval", 1332159900], ["Rixensart", 1332160080], ["Ottignies", 1332160560]], [["Gembloux", 1332149220], ["Namur", 1332149940]], [["Bruxelles Luxembourg", 1332143640], ["Ottignies", 1332144780], ["Gembloux", 1332145560], ["Namur", 1332146340]], [["Ottignies", 1332137700], ["Gembloux", 1332138360], ["Namur", 1332139140]], [["Ottignies", 1332153900], ["Gembloux", 1332154500], ["Namur", 1332155340]], [["Bruxelles Luxembourg", 1332154860], ["Etterbeek", 1332155040], ["Watermael", 1332155340], ["Boitsfort", 1332155520], ["Groenendael", 1332155760], ["Hoeilaart", 1332155880], ["La Hulpe", 1332156060], ["Genval", 1332156300], ["Rixensart", 1332156480], ["Ottignies", 1332156960]], [["Gembloux", 1332187020], ["Namur", 1332187740]], [["Gembloux", 1332161820], ["Namur", 1332162540]], [["Ottignies", 1332168900], ["Mont Saint Guibert", 1332169320], ["Blanmont", 1332169500], ["Chastre", 1332169620], ["Ernage", 1332169800], ["Gembloux", 1332170040]], [["Gembloux", 1332171060], ["Lonzee", 1332171300], ["Beuzet", 1332171480], ["Saint Denis Bovesse", 1332171660], ["Rhisnes", 1332171900], ["Namur", 1332172320]], [["Bruxelles Luxembourg", 1332169260], ["Etterbeek", 1332169500], ["Ottignies", 1332170880], ["Gembloux", 1332171840], ["Namur", 1332172740]], [["Ottignies", 1332179100], ["Gembloux", 1332179700], ["Namur", 1332180540]], [["Bruxelles Luxembourg", 1332157500], ["Etterbeek", 1332157740]], [["Gembloux", 1332147420], ["Namur", 1332148140]], [["Bruxelles Luxembourg", 1332141840], ["Ottignies", 1332142980], ["Gembloux", 1332143700], ["Namur", 1332144540]], [["Ottignies", 1332155700], ["Gembloux", 1332156360], ["Namur", 1332157140]], [["Bruxelles Luxembourg", 1332183780], ["Etterbeek", 1332184020]], [["Gembloux", 1332138420], ["Namur", 1332139140]], [["Ottignies", 1332175200], ["Gembloux", 1332175920], ["Namur", 1332176760]], [["Gembloux", 1332185220], ["Namur", 1332185940]], [["Bruxelles Luxembourg", 1332129720], ["Etterbeek", 1332129900], ["Watermael", 1332130200], ["Boitsfort", 1332130380], ["Groenendael", 1332130620], ["Hoeilaart", 1332130740], ["La Hulpe", 1332130920], ["Genval", 1332131160], ["Rixensart", 1332131340], ["Ottignies", 1332131880]], [["Gembloux", 1332167400], ["Lonzee", 1332167640], ["Beuzet", 1332167820], ["Saint Denis Bovesse", 1332168000], ["Rhisnes", 1332168240], ["Namur", 1332168660]], [["Ottignies", 1332132300], ["Mont Saint Guibert", 1332132720], ["Blanmont", 1332132900], ["Chastre", 1332133020], ["Ernage", 1332133200], ["Gembloux", 1332133560]], [["Bruxelles Luxembourg", 1332190860], ["Etterbeek", 1332191040], ["Watermael", 1332191340], ["Boitsfort", 1332191520], ["Groenendael", 1332191760], ["Hoeilaart", 1332191880], ["La Hulpe", 1332192060], ["Genval", 1332192300], ["Rixensart", 1332192480], ["Ottignies", 1332192960]], [["Ottignies", 1332143280], ["Mont Saint Guibert", 1332143700], ["Blanmont", 1332143880], ["Chastre", 1332144000], ["Ernage", 1332144180], ["Gembloux", 1332144540]], [["Bruxelles Luxembourg", 1332171360], ["Etterbeek", 1332171600], ["Boitsfort", 1332171900], ["Groenendael", 1332172140], ["La Hulpe", 1332172320], ["Ottignies", 1332173100]], [["Gembloux", 1332145620], ["Namur", 1332146340]], [["Bruxelles Luxembourg", 1332181440], ["Ottignies", 1332182580], ["Gembloux", 1332183300], ["Namur", 1332184140]], [["Ottignies", 1332157500], ["Gembloux", 1332158100], ["Namur", 1332158940]], [["Bruxelles Luxembourg", 1332135900], ["Etterbeek", 1332136140]], [["Gembloux", 1332183420], ["Namur", 1332184140]], [["Bruxelles Luxembourg", 1332164700], ["Etterbeek", 1332164940]], [["Ottignies", 1332134100], ["Gembloux", 1332134700], ["Namur", 1332135540]], [["Bruxelles Luxembourg", 1332139500], ["Etterbeek", 1332139740]], [["Bruxelles Luxembourg", 1332140280], ["Etterbeek", 1332140460], ["Boitsfort", 1332140760], ["La Hulpe", 1332141180], ["Genval", 1332141360], ["Rixensart", 1332141540], ["Ottignies", 1332141960]], [["Gembloux", 1332135000], ["Lonzee", 1332135240], ["Beuzet", 1332135420], ["Saint Denis Bovesse", 1332135600], ["Rhisnes", 1332135840], ["Namur", 1332136260]], [["Ottignies", 1332172140], ["Mont Saint Guibert", 1332172560], ["Blanmont", 1332172740], ["Chastre", 1332172860], ["Ernage", 1332173040], ["Gembloux", 1332173400]], [["Bruxelles Luxembourg", 1332153900], ["Etterbeek", 1332154140]], [["Gembloux", 1332143820], ["Namur", 1332144540]], [["Bruxelles Luxembourg", 1332138240], ["Ottignies", 1332139380], ["Gembloux", 1332140100], ["Namur", 1332140940]], [["Bruxelles Luxembourg", 1332160140], ["Namur", 1332162840]], [["Ottignies", 1332144900], ["Gembloux", 1332145560], ["Namur", 1332146340]], [["Bruxelles Luxembourg", 1332180180], ["Etterbeek", 1332180420]], [["Bruxelles Luxembourg", 1332162960], ["Etterbeek", 1332163140]], [["Gembloux", 1332192600], ["Lonzee", 1332192840], ["Beuzet", 1332193020], ["Saint Denis Bovesse", 1332193200], ["Rhisnes", 1332193440], ["Namur", 1332193860]], [["Bruxelles Luxembourg", 1332141360], ["Etterbeek", 1332141540]], [["Bruxelles Luxembourg", 1332150300], ["Etterbeek", 1332150540]], [["Ottignies", 1332135900], ["Gembloux", 1332136500], ["Namur", 1332137340]], [["Bruxelles Luxembourg", 1332168060], ["Etterbeek", 1332168300], ["Boitsfort", 1332168540], ["La Hulpe", 1332168960], ["Genval", 1332169140], ["Rixensart", 1332169320], ["Ottignies", 1332169680]], [["Bruxelles Luxembourg", 1332186060], ["Etterbeek", 1332186240], ["Boitsfort", 1332186540], ["La Hulpe", 1332186960], ["Genval", 1332187140], ["Rixensart", 1332187320], ["Ottignies", 1332187680]], [["Ottignies", 1332173940], ["Gembloux", 1332174660], ["Namur", 1332175560]], [["Bruxelles Luxembourg", 1332179100], ["Etterbeek", 1332179340]], [["Gembloux", 1332142020], ["Namur", 1332142740]], [["Bruxelles Luxembourg", 1332194040], ["Ottignies", 1332195180], ["Gembloux", 1332195960], ["Namur", 1332196740]], [["Bruxelles Luxembourg", 1332148560], ["Etterbeek", 1332148740]], [["Ottignies", 1332146700], ["Gembloux", 1332147300], ["Namur", 1332148140]], [["Bruxelles Luxembourg", 1332147660], ["Etterbeek", 1332147840], ["Watermael", 1332148140], ["Boitsfort", 1332148320], ["Groenendael", 1332148560], ["Hoeilaart", 1332148680], ["La Hulpe", 1332148860], ["Genval", 1332149100], ["Rixensart", 1332149280], ["Ottignies", 1332149760]], [["Gembloux", 1332196020], ["Namur", 1332196740]], [["Gembloux", 1332179820], ["Namur", 1332180540]], [["Gembloux", 1332175980], ["Namur", 1332176760]], [["Ottignies", 1332161700], ["Mont Saint Guibert", 1332162120], ["Blanmont", 1332162300], ["Chastre", 1332162420], ["Ernage", 1332162600], ["Gembloux", 1332162960]], [["Bruxelles Luxembourg", 1332158580], ["Etterbeek", 1332158820]], [["Bruxelles Luxembourg", 1332177360], ["Etterbeek", 1332177540]], [["Bruxelles Luxembourg", 1332166560], ["Etterbeek", 1332166740]], [["Bruxelles Luxembourg", 1332145920], ["Etterbeek", 1332146160]], [["Bruxelles Luxembourg", 1332165660], ["Etterbeek", 1332165840], ["Watermael", 1332166140], ["Boitsfort", 1332166320], ["Groenendael", 1332166560], ["Hoeilaart", 1332166680], ["La Hulpe", 1332166860], ["Genval", 1332167100], ["Rixensart", 1332167280], ["Ottignies", 1332167760]], [["Gembloux", 1332140220], ["Namur", 1332140940]], [["Bruxelles Luxembourg", 1332192240], ["Ottignies", 1332193380], ["Gembloux", 1332194100], ["Namur", 1332194940]], [["Gembloux", 1332134820], ["Namur", 1332135540]], [["Ottignies", 1332148500], ["Gembloux", 1332149160], ["Namur", 1332149940]], [["Bruxelles Luxembourg", 1332176580], ["Etterbeek", 1332176820]], [["Bruxelles Luxembourg", 1332152160], ["Etterbeek", 1332152340]], [["Bruxelles Luxembourg", 1332151260], ["Etterbeek", 1332151440], ["Watermael", 1332151740], ["Boitsfort", 1332151920], ["Groenendael", 1332152160], ["Hoeilaart", 1332152280], ["La Hulpe", 1332152460], ["Genval", 1332152700], ["Rixensart", 1332152880], ["Ottignies", 1332153360]], [["Gembloux", 1332185400], ["Lonzee", 1332185640], ["Beuzet", 1332185820], ["Saint Denis Bovesse", 1332186000], ["Rhisnes", 1332186240], ["Namur", 1332186660]], [["Bruxelles Luxembourg", 1332164460], ["Etterbeek", 1332164700], ["Boitsfort", 1332164940], ["La Hulpe", 1332165360], ["Genval", 1332165540], ["Rixensart", 1332165720], ["Ottignies", 1332166080]], [["Gembloux", 1332163800], ["Lonzee", 1332164040], ["Beuzet", 1332164220], ["Saint Denis Bovesse", 1332164400], ["Rhisnes", 1332164640], ["Namur", 1332165060]], [["Bruxelles Luxembourg", 1332163860], ["Namur", 1332166440]], [["Bruxelles Luxembourg", 1332193260], ["Etterbeek", 1332193440], ["Boitsfort", 1332193740], ["La Hulpe", 1332194160], ["Genval", 1332194340], ["Rixensart", 1332194520], ["Ottignies", 1332194880]], [["Ottignies", 1332174120], ["Mont Saint Guibert", 1332174540], ["Blanmont", 1332174720], ["Chastre", 1332174900], ["Ernage", 1332175080], ["Gembloux", 1332175380]], [["Bruxelles Luxembourg", 1332190440], ["Ottignies", 1332191580], ["Gembloux", 1332192360], ["Namur", 1332193140]], [["Ottignies", 1332139500], ["Gembloux", 1332140100], ["Namur", 1332140940]], [["Ottignies", 1332150300], ["Gembloux", 1332150900], ["Namur", 1332151740]], [["Bruxelles Luxembourg", 1332144060], ["Etterbeek", 1332144240], ["Watermael", 1332144540], ["Boitsfort", 1332144720], ["Groenendael", 1332144960], ["Hoeilaart", 1332145080], ["La Hulpe", 1332145260], ["Genval", 1332145500], ["Rixensart", 1332145680], ["Ottignies", 1332146160]], [["Gembloux", 1332176220], ["Namur", 1332176940]], [["Bruxelles Luxembourg", 1332174480], ["Etterbeek", 1332174720]], [["Gembloux", 1332160020], ["Namur", 1332160740]], [["Ottignies", 1332165300], ["Mont Saint Guibert", 1332165720], ["Blanmont", 1332165900], ["Chastre", 1332166020], ["Ernage", 1332166200], ["Gembloux", 1332166560]], [["Bruxelles Luxembourg", 1332154980], ["Etterbeek", 1332155220]], [["Bruxelles Luxembourg", 1332154440], ["Ottignies", 1332155580], ["Gembloux", 1332156360], ["Namur", 1332157140]], [["Ottignies", 1332171060], ["Gembloux", 1332171840], ["Namur", 1332172740]], [["Bruxelles Luxembourg", 1332162060], ["Etterbeek", 1332162240], ["Watermael", 1332162540], ["Boitsfort", 1332162720], ["Groenendael", 1332162960], ["Hoeilaart", 1332163080], ["La Hulpe", 1332163260], ["Genval", 1332163500], ["Rixensart", 1332163680], ["Ottignies", 1332164160]], [["Ottignies", 1332175920], ["Gembloux", 1332176580], ["Namur", 1332177360]], [["Bruxelles Luxembourg", 1332180960], ["Etterbeek", 1332181140]], [["Ottignies", 1332195300], ["Gembloux", 1332195960], ["Namur", 1332196740]], [["Bruxelles Luxembourg", 1332172980], ["Etterbeek", 1332173220]], [["Gembloux", 1332174420], ["Namur", 1332175200]], [["Bruxelles Luxembourg", 1332167040], ["Ottignies", 1332168180], ["Gembloux", 1332168960], ["Namur", 1332169740]], [["Gembloux", 1332169440], ["Namur", 1332170160]], [["Bruxelles Luxembourg", 1332160860], ["Etterbeek", 1332161040], ["Boitsfort", 1332161340], ["La Hulpe", 1332161760], ["Genval", 1332161940], ["Rixensart", 1332162120], ["Ottignies", 1332162480]], [["Bruxelles Luxembourg", 1332147240], ["Ottignies", 1332148380], ["Gembloux", 1332149160], ["Namur", 1332149940]], [["Gembloux", 1332138660], ["Lonzee", 1332138900], ["Beuzet", 1332139080], ["Saint Denis Bovesse", 1332139260], ["Rhisnes", 1332139560], ["Namur", 1332140040]], [["Ottignies", 1332182880], ["Mont Saint Guibert", 1332183300], ["Blanmont", 1332183480], ["Chastre", 1332183600], ["Ernage", 1332183780], ["Gembloux", 1332184140]], [["Bruxelles Luxembourg", 1332146460], ["Etterbeek", 1332146640], ["Boitsfort", 1332146940], ["La Hulpe", 1332147360], ["Genval", 1332147540], ["Rixensart", 1332147720], ["Ottignies", 1332148080]], [["Gembloux", 1332160200], ["Lonzee", 1332160440], ["Beuzet", 1332160620], ["Saint Denis Bovesse", 1332160800], ["Rhisnes", 1332161040], ["Namur", 1332161460]], [["Bruxelles Luxembourg", 1332176520], ["Etterbeek", 1332176700], ["Watermael", 1332177000], ["Boitsfort", 1332177180], ["Groenendael", 1332177420], ["Hoeilaart", 1332177600], ["La Hulpe", 1332177780], ["Genval", 1332178020], ["Rixensart", 1332178200], ["Ottignies", 1332178560]], [["Bruxelles Luxembourg", 1332186840], ["Ottignies", 1332187980], ["Gembloux", 1332188760], ["Namur", 1332189540]], [["Bruxelles Luxembourg", 1332178860], ["Etterbeek", 1332179040], ["Boitsfort", 1332179340], ["Groenendael", 1332179580], ["La Hulpe", 1332179820], ["Genval", 1332180000], ["Rixensart", 1332180120], ["Ottignies", 1332180480]], [["Gembloux", 1332172620], ["Namur", 1332173340]], [["Bruxelles Luxembourg", 1332170880], ["Etterbeek", 1332171120]], [["Bruxelles Luxembourg", 1332151380], ["Etterbeek", 1332151620]]]
+[
+    [
+        ["Bruxelles Luxembourg", 1332165240],
+        ["Ottignies", 1332166380],
+        ["Gembloux", 1332167160],
+        ["Namur", 1332167940]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332134640],
+        ["Ottignies", 1332135780],
+        ["Gembloux", 1332136500],
+        ["Namur", 1332137340]
+    ],
+    [
+        ["Ottignies", 1332168540],
+        ["Gembloux", 1332169380],
+        ["Namur", 1332170160]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332139260],
+        ["Etterbeek", 1332139500],
+        ["Boitsfort", 1332139740],
+        ["Groenendael", 1332139980],
+        ["La Hulpe", 1332140220],
+        ["Genval", 1332140400],
+        ["Rixensart", 1332140520],
+        ["Ottignies", 1332140880]
+    ],
+    [
+        ["Ottignies", 1332172800],
+        ["Gembloux", 1332173580],
+        ["Namur", 1332174420]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332185040],
+        ["Ottignies", 1332186180],
+        ["Gembloux", 1332186900],
+        ["Namur", 1332187740]
+    ],
+    [
+        ["Gembloux", 1332196200],
+        ["Lonzee", 1332196440],
+        ["Beuzet", 1332196620],
+        ["Saint Denis Bovesse", 1332196800],
+        ["Rhisnes", 1332197040],
+        ["Namur", 1332197460]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332169380],
+        ["Etterbeek", 1332169620]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332144180],
+        ["Etterbeek", 1332144420]
+    ],
+    [
+        ["Gembloux", 1332170820],
+        ["Namur", 1332171600]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332172920],
+        ["Etterbeek", 1332173160],
+        ["Boitsfort", 1332173460],
+        ["Hoeilaart", 1332173760],
+        ["Genval", 1332174060],
+        ["Rixensart", 1332174240],
+        ["Ottignies", 1332174720]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332157260],
+        ["Etterbeek", 1332157440],
+        ["Boitsfort", 1332157740],
+        ["La Hulpe", 1332158160],
+        ["Genval", 1332158340],
+        ["Rixensart", 1332158520],
+        ["Ottignies", 1332158880]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332135060],
+        ["Namur", 1332137640]
+    ],
+    [
+        ["Ottignies", 1332186480],
+        ["Mont Saint Guibert", 1332186900],
+        ["Blanmont", 1332187080],
+        ["Chastre", 1332187200],
+        ["Ernage", 1332187380],
+        ["Gembloux", 1332187740]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332142020],
+        ["Etterbeek", 1332142260]
+    ],
+    [
+        ["Gembloux", 1332156600],
+        ["Lonzee", 1332156840],
+        ["Beuzet", 1332157020],
+        ["Saint Denis Bovesse", 1332157200],
+        ["Rhisnes", 1332157440],
+        ["Namur", 1332157860]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332183240],
+        ["Ottignies", 1332184380],
+        ["Gembloux", 1332185160],
+        ["Namur", 1332185940]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332146700],
+        ["Etterbeek", 1332146940]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332175260],
+        ["Etterbeek", 1332175500],
+        ["La Hulpe", 1332176100],
+        ["Genval", 1332176340],
+        ["Rixensart", 1332176520],
+        ["Ottignies", 1332176880]
+    ],
+    [
+        ["Gembloux", 1332176700],
+        ["Namur", 1332177360]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332163440],
+        ["Ottignies", 1332164580],
+        ["Gembloux", 1332165300],
+        ["Namur", 1332166140]
+    ],
+    [
+        ["Gembloux", 1332178020],
+        ["Namur", 1332178800]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332147780],
+        ["Etterbeek", 1332148020]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332175500],
+        ["Etterbeek", 1332175740]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332176280],
+        ["Etterbeek", 1332176460],
+        ["Boitsfort", 1332176820],
+        ["Hoeilaart", 1332177180],
+        ["Genval", 1332177480],
+        ["Rixensart", 1332177660],
+        ["Ottignies", 1332178140]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332135660],
+        ["Etterbeek", 1332135900],
+        ["Boitsfort", 1332136140],
+        ["La Hulpe", 1332136560],
+        ["Genval", 1332136740],
+        ["Rixensart", 1332136920],
+        ["Ottignies", 1332137280]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332150060],
+        ["Etterbeek", 1332150240],
+        ["Boitsfort", 1332150540],
+        ["La Hulpe", 1332150960],
+        ["Genval", 1332151140],
+        ["Rixensart", 1332151320],
+        ["Ottignies", 1332151680]
+    ],
+    [
+        ["Ottignies", 1332188100],
+        ["Gembloux", 1332188760],
+        ["Namur", 1332189540]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332165780],
+        ["Etterbeek", 1332166020]
+    ],
+    [
+        ["Gembloux", 1332167220],
+        ["Namur", 1332167940]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332161640],
+        ["Ottignies", 1332162780],
+        ["Gembloux", 1332163560],
+        ["Namur", 1332164340]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332153660],
+        ["Etterbeek", 1332153840],
+        ["Boitsfort", 1332154140],
+        ["La Hulpe", 1332154560],
+        ["Genval", 1332154740],
+        ["Rixensart", 1332154920],
+        ["Ottignies", 1332155280]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332168300],
+        ["Etterbeek", 1332168540]
+    ],
+    [
+        ["Ottignies", 1332136500],
+        ["Mont Saint Guibert", 1332136980],
+        ["Blanmont", 1332137220],
+        ["Chastre", 1332137400],
+        ["Ernage", 1332137640],
+        ["Gembloux", 1332138120]
+    ],
+    [
+        ["Gembloux", 1332173700],
+        ["Namur", 1332174420]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332140040],
+        ["Ottignies", 1332141180],
+        ["Gembloux", 1332141900],
+        ["Namur", 1332142740]
+    ],
+    [
+        ["Gembloux", 1332172800],
+        ["Lonzee", 1332173040],
+        ["Beuzet", 1332173220],
+        ["Saint Denis Bovesse", 1332173400],
+        ["Rhisnes", 1332173640],
+        ["Namur", 1332174000]
+    ],
+    [
+        ["Ottignies", 1332141300],
+        ["Gembloux", 1332141900],
+        ["Namur", 1332142740]
+    ],
+    [
+        ["Ottignies", 1332189900],
+        ["Gembloux", 1332190500],
+        ["Namur", 1332191340]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332133260],
+        ["Etterbeek", 1332133440],
+        ["Watermael", 1332133740],
+        ["Boitsfort", 1332133920],
+        ["Groenendael", 1332134160],
+        ["Hoeilaart", 1332134280],
+        ["La Hulpe", 1332134460],
+        ["Genval", 1332134700],
+        ["Rixensart", 1332134880],
+        ["Ottignies", 1332135360]
+    ],
+    [
+        ["Gembloux", 1332165420],
+        ["Namur", 1332166140]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332159840],
+        ["Ottignies", 1332160980],
+        ["Gembloux", 1332161700],
+        ["Namur", 1332162540]
+    ],
+    [
+        ["Gembloux", 1332158220],
+        ["Namur", 1332158940]
+    ],
+    [
+        ["Ottignies", 1332166500],
+        ["Gembloux", 1332167160],
+        ["Namur", 1332167940]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332174900],
+        ["Etterbeek", 1332175080],
+        ["Boitsfort", 1332175440],
+        ["Groenendael", 1332175680],
+        ["La Hulpe", 1332175920],
+        ["Ottignies", 1332176580]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332144960],
+        ["Etterbeek", 1332145140]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332132060],
+        ["Etterbeek", 1332132240],
+        ["Boitsfort", 1332132540],
+        ["La Hulpe", 1332132960],
+        ["Genval", 1332133140],
+        ["Rixensart", 1332133320],
+        ["Ottignies", 1332133680]
+    ],
+    [
+        ["Ottignies", 1332154080],
+        ["Mont Saint Guibert", 1332154500],
+        ["Blanmont", 1332154680],
+        ["Chastre", 1332154800],
+        ["Ernage", 1332154980],
+        ["Gembloux", 1332155340]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332177840],
+        ["Ottignies", 1332178980],
+        ["Gembloux", 1332179700],
+        ["Namur", 1332180540]
+    ],
+    [
+        ["Ottignies", 1332191700],
+        ["Gembloux", 1332192360],
+        ["Namur", 1332193140]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332162180],
+        ["Etterbeek", 1332162420]
+    ],
+    [
+        ["Gembloux", 1332189000],
+        ["Lonzee", 1332189240],
+        ["Beuzet", 1332189420],
+        ["Saint Denis Bovesse", 1332189600],
+        ["Rhisnes", 1332189900],
+        ["Namur", 1332190380]
+    ],
+    [
+        ["Gembloux", 1332163620],
+        ["Namur", 1332164340]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332158040],
+        ["Ottignies", 1332159180],
+        ["Gembloux", 1332159960],
+        ["Namur", 1332160740]
+    ],
+    [
+        ["Ottignies", 1332168300],
+        ["Gembloux", 1332168960],
+        ["Namur", 1332169740]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332173100],
+        ["Etterbeek", 1332173340],
+        ["Watermael", 1332173580],
+        ["Boitsfort", 1332173760],
+        ["Groenendael", 1332174000],
+        ["La Hulpe", 1332174240],
+        ["Rixensart", 1332174540],
+        ["Ottignies", 1332174900]
+    ],
+    [
+        ["Gembloux", 1332149400],
+        ["Lonzee", 1332149640],
+        ["Beuzet", 1332149820],
+        ["Saint Denis Bovesse", 1332150000],
+        ["Rhisnes", 1332150240],
+        ["Namur", 1332150660]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332176040],
+        ["Ottignies", 1332177180],
+        ["Gembloux", 1332177960],
+        ["Namur", 1332178800]
+    ],
+    [
+        ["Ottignies", 1332193500],
+        ["Gembloux", 1332194100],
+        ["Namur", 1332194940]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332187260],
+        ["Etterbeek", 1332187440],
+        ["Watermael", 1332187740],
+        ["Boitsfort", 1332187920],
+        ["Groenendael", 1332188160],
+        ["Hoeilaart", 1332188280],
+        ["La Hulpe", 1332188460],
+        ["Genval", 1332188700],
+        ["Rixensart", 1332188880],
+        ["Ottignies", 1332189360]
+    ],
+    [
+        ["Ottignies", 1332190080],
+        ["Mont Saint Guibert", 1332190500],
+        ["Blanmont", 1332190680],
+        ["Chastre", 1332190800],
+        ["Ernage", 1332190980],
+        ["Gembloux", 1332191340]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332156240],
+        ["Ottignies", 1332157380],
+        ["Gembloux", 1332158100],
+        ["Namur", 1332158940]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332189660],
+        ["Etterbeek", 1332189840],
+        ["Boitsfort", 1332190140],
+        ["La Hulpe", 1332190560],
+        ["Genval", 1332190740],
+        ["Rixensart", 1332190920],
+        ["Ottignies", 1332191280]
+    ],
+    [
+        ["Gembloux", 1332176820],
+        ["Lonzee", 1332177060],
+        ["Beuzet", 1332177240],
+        ["Saint Denis Bovesse", 1332177420],
+        ["Rhisnes", 1332177660],
+        ["Namur", 1332178080]
+    ],
+    [
+        ["Ottignies", 1332170100],
+        ["Gembloux", 1332170760],
+        ["Namur", 1332171600]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332140580],
+        ["Etterbeek", 1332140820]
+    ],
+    [
+        ["Gembloux", 1332175020],
+        ["Lonzee", 1332175260],
+        ["Beuzet", 1332175440],
+        ["Saint Denis Bovesse", 1332175620],
+        ["Rhisnes", 1332175860],
+        ["Namur", 1332176280]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332179640],
+        ["Ottignies", 1332180780],
+        ["Gembloux", 1332181560],
+        ["Namur", 1332182340]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332136440],
+        ["Ottignies", 1332137580],
+        ["Gembloux", 1332138360],
+        ["Namur", 1332139140]
+    ],
+    [
+        ["Gembloux", 1332131400],
+        ["Lonzee", 1332131640],
+        ["Beuzet", 1332131820],
+        ["Saint Denis Bovesse", 1332132000],
+        ["Rhisnes", 1332132240],
+        ["Namur", 1332132660]
+    ],
+    [
+        ["Ottignies", 1332157680],
+        ["Mont Saint Guibert", 1332158100],
+        ["Blanmont", 1332158280],
+        ["Chastre", 1332158400],
+        ["Ernage", 1332158580],
+        ["Gembloux", 1332158940]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332174240],
+        ["Ottignies", 1332175380],
+        ["Gembloux", 1332176160],
+        ["Namur", 1332176940]
+    ],
+    [
+        ["Gembloux", 1332139500],
+        ["Lonzee", 1332139740],
+        ["Beuzet", 1332139920],
+        ["Saint Denis Bovesse", 1332140100],
+        ["Rhisnes", 1332140280],
+        ["Namur", 1332140760]
+    ],
+    [
+        ["Ottignies", 1332180900],
+        ["Gembloux", 1332181560],
+        ["Namur", 1332182340]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332170100],
+        ["Etterbeek", 1332170280]
+    ],
+    [
+        ["Ottignies", 1332138120],
+        ["Mont Saint Guibert", 1332138600],
+        ["Blanmont", 1332138780],
+        ["Chastre", 1332138960],
+        ["Ernage", 1332139200],
+        ["Gembloux", 1332139380],
+        ["Lonzee", 1332139740],
+        ["Beuzet", 1332139920],
+        ["Saint Denis Bovesse", 1332140100],
+        ["Rhisnes", 1332140280],
+        ["Namur", 1332140760]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332137760],
+        ["Etterbeek", 1332137940]
+    ],
+    [
+        ["Ottignies", 1332171900],
+        ["Gembloux", 1332172560],
+        ["Namur", 1332173340]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332169500],
+        ["Etterbeek", 1332169740],
+        ["Watermael", 1332169980],
+        ["Boitsfort", 1332170160],
+        ["Groenendael", 1332170400],
+        ["Hoeilaart", 1332170520],
+        ["La Hulpe", 1332170760],
+        ["Genval", 1332170940],
+        ["Rixensart", 1332171120],
+        ["Ottignies", 1332171600]
+    ],
+    [
+        ["Gembloux", 1332174780],
+        ["Namur", 1332175560]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332182460],
+        ["Etterbeek", 1332182640],
+        ["Boitsfort", 1332182940],
+        ["La Hulpe", 1332183360],
+        ["Genval", 1332183540],
+        ["Rixensart", 1332183720],
+        ["Ottignies", 1332184080]
+    ],
+    [
+        ["Gembloux", 1332145800],
+        ["Lonzee", 1332146040],
+        ["Beuzet", 1332146220],
+        ["Saint Denis Bovesse", 1332146400],
+        ["Rhisnes", 1332146640],
+        ["Namur", 1332147060]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332172740],
+        ["Ottignies", 1332173820],
+        ["Gembloux", 1332174660],
+        ["Namur", 1332175560]
+    ],
+    [
+        ["Gembloux", 1332142200],
+        ["Lonzee", 1332142440],
+        ["Beuzet", 1332142620],
+        ["Saint Denis Bovesse", 1332142800],
+        ["Rhisnes", 1332143040],
+        ["Namur", 1332143460]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332171120],
+        ["Etterbeek", 1332171360],
+        ["Ottignies", 1332172620],
+        ["Gembloux", 1332173580],
+        ["Namur", 1332174420]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332172440],
+        ["Ottignies", 1332173580],
+        ["Gembloux", 1332174360],
+        ["Namur", 1332175200]
+    ],
+    [
+        ["Gembloux", 1332171960],
+        ["Namur", 1332172740]
+    ],
+    [
+        ["Ottignies", 1332182700],
+        ["Gembloux", 1332183300],
+        ["Namur", 1332184140]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332183660],
+        ["Etterbeek", 1332183840],
+        ["Watermael", 1332184140],
+        ["Boitsfort", 1332184320],
+        ["Groenendael", 1332184560],
+        ["Hoeilaart", 1332184680],
+        ["La Hulpe", 1332184860],
+        ["Genval", 1332185100],
+        ["Rixensart", 1332185280],
+        ["Ottignies", 1332185760]
+    ],
+    [
+        ["Ottignies", 1332193680],
+        ["Mont Saint Guibert", 1332194100],
+        ["Blanmont", 1332194280],
+        ["Chastre", 1332194400],
+        ["Ernage", 1332194580],
+        ["Gembloux", 1332194940]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332152640],
+        ["Ottignies", 1332153780],
+        ["Gembloux", 1332154500],
+        ["Namur", 1332155340]
+    ],
+    [
+        ["Ottignies", 1332146880],
+        ["Mont Saint Guibert", 1332147300],
+        ["Blanmont", 1332147480],
+        ["Chastre", 1332147600],
+        ["Ernage", 1332147780],
+        ["Gembloux", 1332148140]
+    ],
+    [
+        ["Ottignies", 1332159300],
+        ["Gembloux", 1332159960],
+        ["Namur", 1332160740]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332136980],
+        ["Etterbeek", 1332137220]
+    ],
+    [
+        ["Ottignies", 1332170280],
+        ["Mont Saint Guibert", 1332170700],
+        ["Blanmont", 1332170880],
+        ["Chastre", 1332171060],
+        ["Ernage", 1332171240],
+        ["Gembloux", 1332171540]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332140520],
+        ["Etterbeek", 1332140700],
+        ["Watermael", 1332141000],
+        ["Boitsfort", 1332141120],
+        ["Groenendael", 1332141360],
+        ["Hoeilaart", 1332141480],
+        ["La Hulpe", 1332141660],
+        ["Genval", 1332141900],
+        ["Rixensart", 1332142080],
+        ["Ottignies", 1332142560]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332171660],
+        ["Etterbeek", 1332171840],
+        ["La Hulpe", 1332172500],
+        ["Genval", 1332172740],
+        ["Rixensart", 1332172920],
+        ["Ottignies", 1332173280]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332170640],
+        ["Ottignies", 1332171780],
+        ["Gembloux", 1332172560],
+        ["Namur", 1332173340]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332149040],
+        ["Ottignies", 1332150180],
+        ["Gembloux", 1332150900],
+        ["Namur", 1332151740]
+    ],
+    [
+        ["Ottignies", 1332184500],
+        ["Gembloux", 1332185160],
+        ["Namur", 1332185940]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332173820],
+        ["Etterbeek", 1332174000]
+    ],
+    [
+        ["Gembloux", 1332156420],
+        ["Namur", 1332157140]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332150840],
+        ["Ottignies", 1332151980],
+        ["Gembloux", 1332152760],
+        ["Namur", 1332153540]
+    ],
+    [
+        ["Gembloux", 1332181800],
+        ["Lonzee", 1332182040],
+        ["Beuzet", 1332182220],
+        ["Saint Denis Bovesse", 1332182400],
+        ["Rhisnes", 1332182640],
+        ["Namur", 1332183060]
+    ],
+    [
+        ["Ottignies", 1332161100],
+        ["Gembloux", 1332161700],
+        ["Namur", 1332162540]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332142860],
+        ["Etterbeek", 1332143100],
+        ["Boitsfort", 1332143340],
+        ["Groenendael", 1332143580],
+        ["La Hulpe", 1332143820],
+        ["Genval", 1332144000],
+        ["Rixensart", 1332144120],
+        ["Ottignies", 1332144480]
+    ],
+    [
+        ["Gembloux", 1332194220],
+        ["Namur", 1332194940]
+    ],
+    [
+        ["Ottignies", 1332176100],
+        ["Mont Saint Guibert", 1332176520],
+        ["Blanmont", 1332176700],
+        ["Chastre", 1332176820],
+        ["Ernage", 1332177000],
+        ["Gembloux", 1332177360]
+    ],
+    [
+        ["Gembloux", 1332178260],
+        ["Lonzee", 1332178500],
+        ["Beuzet", 1332178680],
+        ["Saint Denis Bovesse", 1332178860],
+        ["Rhisnes", 1332179100],
+        ["Namur", 1332179520]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332168840],
+        ["Ottignies", 1332169980],
+        ["Gembloux", 1332170760],
+        ["Namur", 1332171600]
+    ],
+    [
+        ["Ottignies", 1332186300],
+        ["Gembloux", 1332186900],
+        ["Namur", 1332187740]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332180060],
+        ["Etterbeek", 1332180240],
+        ["Watermael", 1332180540],
+        ["Boitsfort", 1332180720],
+        ["Groenendael", 1332180960],
+        ["Hoeilaart", 1332181080],
+        ["La Hulpe", 1332181260],
+        ["Genval", 1332181500],
+        ["Rixensart", 1332181680],
+        ["Ottignies", 1332182160]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332167340],
+        ["Ottignies", 1332168480],
+        ["Gembloux", 1332169380],
+        ["Namur", 1332170160]
+    ],
+    [
+        ["Gembloux", 1332154620],
+        ["Namur", 1332155340]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332136860],
+        ["Etterbeek", 1332137040],
+        ["Watermael", 1332137340],
+        ["Boitsfort", 1332137520],
+        ["Groenendael", 1332137760],
+        ["Hoeilaart", 1332137880],
+        ["La Hulpe", 1332138060],
+        ["Genval", 1332138300],
+        ["Rixensart", 1332138480],
+        ["Ottignies", 1332138960]
+    ],
+    [
+        ["Ottignies", 1332162900],
+        ["Gembloux", 1332163560],
+        ["Namur", 1332164340]
+    ],
+    [
+        ["Gembloux", 1332192420],
+        ["Namur", 1332193140]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332144600],
+        ["Etterbeek", 1332144840]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332132840],
+        ["Ottignies", 1332133980],
+        ["Gembloux", 1332134700],
+        ["Namur", 1332135540]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332182700],
+        ["Etterbeek", 1332182940]
+    ],
+    [
+        ["Ottignies", 1332150480],
+        ["Mont Saint Guibert", 1332150900],
+        ["Blanmont", 1332151080],
+        ["Chastre", 1332151200],
+        ["Ernage", 1332151380],
+        ["Gembloux", 1332151740]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332159360],
+        ["Etterbeek", 1332159540]
+    ],
+    [
+        ["Gembloux", 1332169020],
+        ["Namur", 1332169740]
+    ],
+    [
+        ["Ottignies", 1332173700],
+        ["Gembloux", 1332174360],
+        ["Namur", 1332175200]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332178260],
+        ["Namur", 1332180840]
+    ],
+    [
+        ["Gembloux", 1332152820],
+        ["Namur", 1332153540]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332155760],
+        ["Etterbeek", 1332155940]
+    ],
+    [
+        ["Ottignies", 1332164700],
+        ["Gembloux", 1332165300],
+        ["Namur", 1332166140]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332143100],
+        ["Etterbeek", 1332143340]
+    ],
+    [
+        ["Gembloux", 1332190620],
+        ["Namur", 1332191340]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332173520],
+        ["Etterbeek", 1332173820],
+        ["Ottignies", 1332175080],
+        ["Gembloux", 1332175920],
+        ["Namur", 1332176760]
+    ],
+    [
+        ["Gembloux", 1332181620],
+        ["Namur", 1332182340]
+    ],
+    [
+        ["Ottignies", 1332179700],
+        ["Mont Saint Guibert", 1332180120],
+        ["Blanmont", 1332180300],
+        ["Chastre", 1332180420],
+        ["Ernage", 1332180600],
+        ["Gembloux", 1332180840]
+    ],
+    [
+        ["Ottignies", 1332175500],
+        ["Gembloux", 1332176160],
+        ["Namur", 1332176940]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332161100],
+        ["Etterbeek", 1332161340]
+    ],
+    [
+        ["Gembloux", 1332151020],
+        ["Namur", 1332151740]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332145440],
+        ["Ottignies", 1332146580],
+        ["Gembloux", 1332147300],
+        ["Namur", 1332148140]
+    ],
+    [
+        ["Gembloux", 1332136620],
+        ["Namur", 1332137340]
+    ],
+    [
+        ["Ottignies", 1332152100],
+        ["Gembloux", 1332152760],
+        ["Namur", 1332153540]
+    ],
+    [
+        ["Gembloux", 1332188820],
+        ["Namur", 1332189540]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332188640],
+        ["Ottignies", 1332189780],
+        ["Gembloux", 1332190500],
+        ["Namur", 1332191340]
+    ],
+    [
+        ["Ottignies", 1332143100],
+        ["Gembloux", 1332143700],
+        ["Namur", 1332144540]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332194460],
+        ["Etterbeek", 1332194640],
+        ["Watermael", 1332194940],
+        ["Boitsfort", 1332195120],
+        ["Groenendael", 1332195360],
+        ["Hoeilaart", 1332195480],
+        ["La Hulpe", 1332195660],
+        ["Genval", 1332195900],
+        ["Rixensart", 1332196080],
+        ["Ottignies", 1332196560]
+    ],
+    [
+        ["Ottignies", 1332139680],
+        ["Mont Saint Guibert", 1332140100],
+        ["Blanmont", 1332140280],
+        ["Chastre", 1332140400],
+        ["Ernage", 1332140580],
+        ["Gembloux", 1332140940]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332171900],
+        ["Etterbeek", 1332172140]
+    ],
+    [
+        ["Gembloux", 1332153000],
+        ["Lonzee", 1332153240],
+        ["Beuzet", 1332153420],
+        ["Saint Denis Bovesse", 1332153600],
+        ["Rhisnes", 1332153840],
+        ["Namur", 1332154260]
+    ],
+    [
+        ["Ottignies", 1332177300],
+        ["Gembloux", 1332177960],
+        ["Namur", 1332178800]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332174660],
+        ["Ottignies", 1332175800],
+        ["Gembloux", 1332176580],
+        ["Namur", 1332177360]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332158460],
+        ["Etterbeek", 1332158640],
+        ["Watermael", 1332158940],
+        ["Boitsfort", 1332159120],
+        ["Groenendael", 1332159360],
+        ["Hoeilaart", 1332159480],
+        ["La Hulpe", 1332159660],
+        ["Genval", 1332159900],
+        ["Rixensart", 1332160080],
+        ["Ottignies", 1332160560]
+    ],
+    [
+        ["Gembloux", 1332149220],
+        ["Namur", 1332149940]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332143640],
+        ["Ottignies", 1332144780],
+        ["Gembloux", 1332145560],
+        ["Namur", 1332146340]
+    ],
+    [
+        ["Ottignies", 1332137700],
+        ["Gembloux", 1332138360],
+        ["Namur", 1332139140]
+    ],
+    [
+        ["Ottignies", 1332153900],
+        ["Gembloux", 1332154500],
+        ["Namur", 1332155340]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332154860],
+        ["Etterbeek", 1332155040],
+        ["Watermael", 1332155340],
+        ["Boitsfort", 1332155520],
+        ["Groenendael", 1332155760],
+        ["Hoeilaart", 1332155880],
+        ["La Hulpe", 1332156060],
+        ["Genval", 1332156300],
+        ["Rixensart", 1332156480],
+        ["Ottignies", 1332156960]
+    ],
+    [
+        ["Gembloux", 1332187020],
+        ["Namur", 1332187740]
+    ],
+    [
+        ["Gembloux", 1332161820],
+        ["Namur", 1332162540]
+    ],
+    [
+        ["Ottignies", 1332168900],
+        ["Mont Saint Guibert", 1332169320],
+        ["Blanmont", 1332169500],
+        ["Chastre", 1332169620],
+        ["Ernage", 1332169800],
+        ["Gembloux", 1332170040]
+    ],
+    [
+        ["Gembloux", 1332171060],
+        ["Lonzee", 1332171300],
+        ["Beuzet", 1332171480],
+        ["Saint Denis Bovesse", 1332171660],
+        ["Rhisnes", 1332171900],
+        ["Namur", 1332172320]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332169260],
+        ["Etterbeek", 1332169500],
+        ["Ottignies", 1332170880],
+        ["Gembloux", 1332171840],
+        ["Namur", 1332172740]
+    ],
+    [
+        ["Ottignies", 1332179100],
+        ["Gembloux", 1332179700],
+        ["Namur", 1332180540]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332157500],
+        ["Etterbeek", 1332157740]
+    ],
+    [
+        ["Gembloux", 1332147420],
+        ["Namur", 1332148140]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332141840],
+        ["Ottignies", 1332142980],
+        ["Gembloux", 1332143700],
+        ["Namur", 1332144540]
+    ],
+    [
+        ["Ottignies", 1332155700],
+        ["Gembloux", 1332156360],
+        ["Namur", 1332157140]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332183780],
+        ["Etterbeek", 1332184020]
+    ],
+    [
+        ["Gembloux", 1332138420],
+        ["Namur", 1332139140]
+    ],
+    [
+        ["Ottignies", 1332175200],
+        ["Gembloux", 1332175920],
+        ["Namur", 1332176760]
+    ],
+    [
+        ["Gembloux", 1332185220],
+        ["Namur", 1332185940]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332129720],
+        ["Etterbeek", 1332129900],
+        ["Watermael", 1332130200],
+        ["Boitsfort", 1332130380],
+        ["Groenendael", 1332130620],
+        ["Hoeilaart", 1332130740],
+        ["La Hulpe", 1332130920],
+        ["Genval", 1332131160],
+        ["Rixensart", 1332131340],
+        ["Ottignies", 1332131880]
+    ],
+    [
+        ["Gembloux", 1332167400],
+        ["Lonzee", 1332167640],
+        ["Beuzet", 1332167820],
+        ["Saint Denis Bovesse", 1332168000],
+        ["Rhisnes", 1332168240],
+        ["Namur", 1332168660]
+    ],
+    [
+        ["Ottignies", 1332132300],
+        ["Mont Saint Guibert", 1332132720],
+        ["Blanmont", 1332132900],
+        ["Chastre", 1332133020],
+        ["Ernage", 1332133200],
+        ["Gembloux", 1332133560]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332190860],
+        ["Etterbeek", 1332191040],
+        ["Watermael", 1332191340],
+        ["Boitsfort", 1332191520],
+        ["Groenendael", 1332191760],
+        ["Hoeilaart", 1332191880],
+        ["La Hulpe", 1332192060],
+        ["Genval", 1332192300],
+        ["Rixensart", 1332192480],
+        ["Ottignies", 1332192960]
+    ],
+    [
+        ["Ottignies", 1332143280],
+        ["Mont Saint Guibert", 1332143700],
+        ["Blanmont", 1332143880],
+        ["Chastre", 1332144000],
+        ["Ernage", 1332144180],
+        ["Gembloux", 1332144540]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332171360],
+        ["Etterbeek", 1332171600],
+        ["Boitsfort", 1332171900],
+        ["Groenendael", 1332172140],
+        ["La Hulpe", 1332172320],
+        ["Ottignies", 1332173100]
+    ],
+    [
+        ["Gembloux", 1332145620],
+        ["Namur", 1332146340]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332181440],
+        ["Ottignies", 1332182580],
+        ["Gembloux", 1332183300],
+        ["Namur", 1332184140]
+    ],
+    [
+        ["Ottignies", 1332157500],
+        ["Gembloux", 1332158100],
+        ["Namur", 1332158940]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332135900],
+        ["Etterbeek", 1332136140]
+    ],
+    [
+        ["Gembloux", 1332183420],
+        ["Namur", 1332184140]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332164700],
+        ["Etterbeek", 1332164940]
+    ],
+    [
+        ["Ottignies", 1332134100],
+        ["Gembloux", 1332134700],
+        ["Namur", 1332135540]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332139500],
+        ["Etterbeek", 1332139740]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332140280],
+        ["Etterbeek", 1332140460],
+        ["Boitsfort", 1332140760],
+        ["La Hulpe", 1332141180],
+        ["Genval", 1332141360],
+        ["Rixensart", 1332141540],
+        ["Ottignies", 1332141960]
+    ],
+    [
+        ["Gembloux", 1332135000],
+        ["Lonzee", 1332135240],
+        ["Beuzet", 1332135420],
+        ["Saint Denis Bovesse", 1332135600],
+        ["Rhisnes", 1332135840],
+        ["Namur", 1332136260]
+    ],
+    [
+        ["Ottignies", 1332172140],
+        ["Mont Saint Guibert", 1332172560],
+        ["Blanmont", 1332172740],
+        ["Chastre", 1332172860],
+        ["Ernage", 1332173040],
+        ["Gembloux", 1332173400]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332153900],
+        ["Etterbeek", 1332154140]
+    ],
+    [
+        ["Gembloux", 1332143820],
+        ["Namur", 1332144540]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332138240],
+        ["Ottignies", 1332139380],
+        ["Gembloux", 1332140100],
+        ["Namur", 1332140940]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332160140],
+        ["Namur", 1332162840]
+    ],
+    [
+        ["Ottignies", 1332144900],
+        ["Gembloux", 1332145560],
+        ["Namur", 1332146340]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332180180],
+        ["Etterbeek", 1332180420]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332162960],
+        ["Etterbeek", 1332163140]
+    ],
+    [
+        ["Gembloux", 1332192600],
+        ["Lonzee", 1332192840],
+        ["Beuzet", 1332193020],
+        ["Saint Denis Bovesse", 1332193200],
+        ["Rhisnes", 1332193440],
+        ["Namur", 1332193860]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332141360],
+        ["Etterbeek", 1332141540]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332150300],
+        ["Etterbeek", 1332150540]
+    ],
+    [
+        ["Ottignies", 1332135900],
+        ["Gembloux", 1332136500],
+        ["Namur", 1332137340]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332168060],
+        ["Etterbeek", 1332168300],
+        ["Boitsfort", 1332168540],
+        ["La Hulpe", 1332168960],
+        ["Genval", 1332169140],
+        ["Rixensart", 1332169320],
+        ["Ottignies", 1332169680]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332186060],
+        ["Etterbeek", 1332186240],
+        ["Boitsfort", 1332186540],
+        ["La Hulpe", 1332186960],
+        ["Genval", 1332187140],
+        ["Rixensart", 1332187320],
+        ["Ottignies", 1332187680]
+    ],
+    [
+        ["Ottignies", 1332173940],
+        ["Gembloux", 1332174660],
+        ["Namur", 1332175560]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332179100],
+        ["Etterbeek", 1332179340]
+    ],
+    [
+        ["Gembloux", 1332142020],
+        ["Namur", 1332142740]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332194040],
+        ["Ottignies", 1332195180],
+        ["Gembloux", 1332195960],
+        ["Namur", 1332196740]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332148560],
+        ["Etterbeek", 1332148740]
+    ],
+    [
+        ["Ottignies", 1332146700],
+        ["Gembloux", 1332147300],
+        ["Namur", 1332148140]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332147660],
+        ["Etterbeek", 1332147840],
+        ["Watermael", 1332148140],
+        ["Boitsfort", 1332148320],
+        ["Groenendael", 1332148560],
+        ["Hoeilaart", 1332148680],
+        ["La Hulpe", 1332148860],
+        ["Genval", 1332149100],
+        ["Rixensart", 1332149280],
+        ["Ottignies", 1332149760]
+    ],
+    [
+        ["Gembloux", 1332196020],
+        ["Namur", 1332196740]
+    ],
+    [
+        ["Gembloux", 1332179820],
+        ["Namur", 1332180540]
+    ],
+    [
+        ["Gembloux", 1332175980],
+        ["Namur", 1332176760]
+    ],
+    [
+        ["Ottignies", 1332161700],
+        ["Mont Saint Guibert", 1332162120],
+        ["Blanmont", 1332162300],
+        ["Chastre", 1332162420],
+        ["Ernage", 1332162600],
+        ["Gembloux", 1332162960]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332158580],
+        ["Etterbeek", 1332158820]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332177360],
+        ["Etterbeek", 1332177540]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332166560],
+        ["Etterbeek", 1332166740]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332145920],
+        ["Etterbeek", 1332146160]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332165660],
+        ["Etterbeek", 1332165840],
+        ["Watermael", 1332166140],
+        ["Boitsfort", 1332166320],
+        ["Groenendael", 1332166560],
+        ["Hoeilaart", 1332166680],
+        ["La Hulpe", 1332166860],
+        ["Genval", 1332167100],
+        ["Rixensart", 1332167280],
+        ["Ottignies", 1332167760]
+    ],
+    [
+        ["Gembloux", 1332140220],
+        ["Namur", 1332140940]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332192240],
+        ["Ottignies", 1332193380],
+        ["Gembloux", 1332194100],
+        ["Namur", 1332194940]
+    ],
+    [
+        ["Gembloux", 1332134820],
+        ["Namur", 1332135540]
+    ],
+    [
+        ["Ottignies", 1332148500],
+        ["Gembloux", 1332149160],
+        ["Namur", 1332149940]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332176580],
+        ["Etterbeek", 1332176820]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332152160],
+        ["Etterbeek", 1332152340]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332151260],
+        ["Etterbeek", 1332151440],
+        ["Watermael", 1332151740],
+        ["Boitsfort", 1332151920],
+        ["Groenendael", 1332152160],
+        ["Hoeilaart", 1332152280],
+        ["La Hulpe", 1332152460],
+        ["Genval", 1332152700],
+        ["Rixensart", 1332152880],
+        ["Ottignies", 1332153360]
+    ],
+    [
+        ["Gembloux", 1332185400],
+        ["Lonzee", 1332185640],
+        ["Beuzet", 1332185820],
+        ["Saint Denis Bovesse", 1332186000],
+        ["Rhisnes", 1332186240],
+        ["Namur", 1332186660]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332164460],
+        ["Etterbeek", 1332164700],
+        ["Boitsfort", 1332164940],
+        ["La Hulpe", 1332165360],
+        ["Genval", 1332165540],
+        ["Rixensart", 1332165720],
+        ["Ottignies", 1332166080]
+    ],
+    [
+        ["Gembloux", 1332163800],
+        ["Lonzee", 1332164040],
+        ["Beuzet", 1332164220],
+        ["Saint Denis Bovesse", 1332164400],
+        ["Rhisnes", 1332164640],
+        ["Namur", 1332165060]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332163860],
+        ["Namur", 1332166440]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332193260],
+        ["Etterbeek", 1332193440],
+        ["Boitsfort", 1332193740],
+        ["La Hulpe", 1332194160],
+        ["Genval", 1332194340],
+        ["Rixensart", 1332194520],
+        ["Ottignies", 1332194880]
+    ],
+    [
+        ["Ottignies", 1332174120],
+        ["Mont Saint Guibert", 1332174540],
+        ["Blanmont", 1332174720],
+        ["Chastre", 1332174900],
+        ["Ernage", 1332175080],
+        ["Gembloux", 1332175380]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332190440],
+        ["Ottignies", 1332191580],
+        ["Gembloux", 1332192360],
+        ["Namur", 1332193140]
+    ],
+    [
+        ["Ottignies", 1332139500],
+        ["Gembloux", 1332140100],
+        ["Namur", 1332140940]
+    ],
+    [
+        ["Ottignies", 1332150300],
+        ["Gembloux", 1332150900],
+        ["Namur", 1332151740]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332144060],
+        ["Etterbeek", 1332144240],
+        ["Watermael", 1332144540],
+        ["Boitsfort", 1332144720],
+        ["Groenendael", 1332144960],
+        ["Hoeilaart", 1332145080],
+        ["La Hulpe", 1332145260],
+        ["Genval", 1332145500],
+        ["Rixensart", 1332145680],
+        ["Ottignies", 1332146160]
+    ],
+    [
+        ["Gembloux", 1332176220],
+        ["Namur", 1332176940]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332174480],
+        ["Etterbeek", 1332174720]
+    ],
+    [
+        ["Gembloux", 1332160020],
+        ["Namur", 1332160740]
+    ],
+    [
+        ["Ottignies", 1332165300],
+        ["Mont Saint Guibert", 1332165720],
+        ["Blanmont", 1332165900],
+        ["Chastre", 1332166020],
+        ["Ernage", 1332166200],
+        ["Gembloux", 1332166560]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332154980],
+        ["Etterbeek", 1332155220]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332154440],
+        ["Ottignies", 1332155580],
+        ["Gembloux", 1332156360],
+        ["Namur", 1332157140]
+    ],
+    [
+        ["Ottignies", 1332171060],
+        ["Gembloux", 1332171840],
+        ["Namur", 1332172740]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332162060],
+        ["Etterbeek", 1332162240],
+        ["Watermael", 1332162540],
+        ["Boitsfort", 1332162720],
+        ["Groenendael", 1332162960],
+        ["Hoeilaart", 1332163080],
+        ["La Hulpe", 1332163260],
+        ["Genval", 1332163500],
+        ["Rixensart", 1332163680],
+        ["Ottignies", 1332164160]
+    ],
+    [
+        ["Ottignies", 1332175920],
+        ["Gembloux", 1332176580],
+        ["Namur", 1332177360]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332180960],
+        ["Etterbeek", 1332181140]
+    ],
+    [
+        ["Ottignies", 1332195300],
+        ["Gembloux", 1332195960],
+        ["Namur", 1332196740]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332172980],
+        ["Etterbeek", 1332173220]
+    ],
+    [
+        ["Gembloux", 1332174420],
+        ["Namur", 1332175200]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332167040],
+        ["Ottignies", 1332168180],
+        ["Gembloux", 1332168960],
+        ["Namur", 1332169740]
+    ],
+    [
+        ["Gembloux", 1332169440],
+        ["Namur", 1332170160]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332160860],
+        ["Etterbeek", 1332161040],
+        ["Boitsfort", 1332161340],
+        ["La Hulpe", 1332161760],
+        ["Genval", 1332161940],
+        ["Rixensart", 1332162120],
+        ["Ottignies", 1332162480]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332147240],
+        ["Ottignies", 1332148380],
+        ["Gembloux", 1332149160],
+        ["Namur", 1332149940]
+    ],
+    [
+        ["Gembloux", 1332138660],
+        ["Lonzee", 1332138900],
+        ["Beuzet", 1332139080],
+        ["Saint Denis Bovesse", 1332139260],
+        ["Rhisnes", 1332139560],
+        ["Namur", 1332140040]
+    ],
+    [
+        ["Ottignies", 1332182880],
+        ["Mont Saint Guibert", 1332183300],
+        ["Blanmont", 1332183480],
+        ["Chastre", 1332183600],
+        ["Ernage", 1332183780],
+        ["Gembloux", 1332184140]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332146460],
+        ["Etterbeek", 1332146640],
+        ["Boitsfort", 1332146940],
+        ["La Hulpe", 1332147360],
+        ["Genval", 1332147540],
+        ["Rixensart", 1332147720],
+        ["Ottignies", 1332148080]
+    ],
+    [
+        ["Gembloux", 1332160200],
+        ["Lonzee", 1332160440],
+        ["Beuzet", 1332160620],
+        ["Saint Denis Bovesse", 1332160800],
+        ["Rhisnes", 1332161040],
+        ["Namur", 1332161460]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332176520],
+        ["Etterbeek", 1332176700],
+        ["Watermael", 1332177000],
+        ["Boitsfort", 1332177180],
+        ["Groenendael", 1332177420],
+        ["Hoeilaart", 1332177600],
+        ["La Hulpe", 1332177780],
+        ["Genval", 1332178020],
+        ["Rixensart", 1332178200],
+        ["Ottignies", 1332178560]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332186840],
+        ["Ottignies", 1332187980],
+        ["Gembloux", 1332188760],
+        ["Namur", 1332189540]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332178860],
+        ["Etterbeek", 1332179040],
+        ["Boitsfort", 1332179340],
+        ["Groenendael", 1332179580],
+        ["La Hulpe", 1332179820],
+        ["Genval", 1332180000],
+        ["Rixensart", 1332180120],
+        ["Ottignies", 1332180480]
+    ],
+    [
+        ["Gembloux", 1332172620],
+        ["Namur", 1332173340]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332170880],
+        ["Etterbeek", 1332171120]
+    ],
+    [
+        ["Bruxelles Luxembourg", 1332151380],
+        ["Etterbeek", 1332151620]
+    ]
+]
