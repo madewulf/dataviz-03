@@ -22,21 +22,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="snippet-1.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/snippet-1.js">
+      <file leaf-file-name="trains.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/namur/trains.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="28" selection-end="125" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="2" column="43" selection-start="41" selection-end="51" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.js">
+      <file leaf-file-name="trains.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trains.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="23" selection-start="2757" selection-end="2757" vertical-scroll-proportion="0.0">
+            <state line="93" column="40" selection-start="2449" selection-end="2472" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="namur.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/namur.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="20" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trains.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trains.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="294" selection-end="341" vertical-scroll-proportion="-6.0263157">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="namur.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/namur.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="47" selection-start="340" selection-end="340" vertical-scroll-proportion="-6.868421">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="51" selection-start="334" selection-end="334" vertical-scroll-proportion="0.47027028">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="google-analytics.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/google-analytics.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -56,40 +99,7 @@
       <file leaf-file-name="snippet4.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/snippet4.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="33" selection-end="448" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="snippet0.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/snippet0.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="snippet1.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/snippet1.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="1" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="snippet2.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/snippet2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="1" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0">
+            <state line="1" column="0" selection-start="32" selection-end="448" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -104,24 +114,6 @@
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="namur.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/namur.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="138" column="35" selection-start="3779" selection-end="3779" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="trains.json" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/namur/trains.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="30" selection-start="28" selection-end="38" vertical-scroll-proportion="0.09235669">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -141,22 +133,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/demo.css" />
-        <option value="$PROJECT_DIR$/raphael.svg" />
-        <option value="$PROJECT_DIR$/demo.html" />
-        <option value="$PROJECT_DIR$/namur.html" />
-        <option value="$PROJECT_DIR$/trains.js" />
         <option value="$PROJECT_DIR$/snippet0.js" />
-        <option value="$PROJECT_DIR$/snippet-1.js" />
         <option value="$PROJECT_DIR$/snippet5.js" />
-        <option value="$PROJECT_DIR$/trains.html" />
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/snippet1.js" />
         <option value="$PROJECT_DIR$/snippet2.js" />
         <option value="$PROJECT_DIR$/namur.js" />
         <option value="$PROJECT_DIR$/snippet3.js" />
-        <option value="$PROJECT_DIR$/snippet4.js" />
         <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/demo.js" />
+        <option value="$PROJECT_DIR$/snippet-1.js" />
+        <option value="$PROJECT_DIR$/snippet4.js" />
+        <option value="$PROJECT_DIR$/trains.js" />
+        <option value="$PROJECT_DIR$/trains.html" />
+        <option value="$PROJECT_DIR$/google-analytics.js" />
+        <option value="$PROJECT_DIR$/namur.html" />
+        <option value="$PROJECT_DIR$/demo.html" />
       </list>
     </option>
   </component>
@@ -207,6 +199,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="dataviz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataviz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataviz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="namur" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -395,7 +401,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977098" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22970779" sideWeight="0.670229" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22970779" sideWeight="0.9664122" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23051947" sideWeight="0.45496184" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -461,69 +467,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="680" selection-end="680" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/raphael.svg">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="3" column="165" selection-start="488" selection-end="489" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo.css">
+    <entry file="file://$PROJECT_DIR$/demo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="18" selection-start="1018" selection-end="1018" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trains.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="6" selection-start="365" selection-end="365" vertical-scroll-proportion="-9.921053">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="20" selection-start="276" selection-end="276" vertical-scroll-proportion="-6.105263">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trains.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="20" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/snippet4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="33" selection-end="448" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/snippet5.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="35" selection-end="99" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="23" selection-start="2757" selection-end="2757" vertical-scroll-proportion="0.0">
+        <state line="7" column="4" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -539,7 +492,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/snippet0.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0">
+        <state line="4" column="0" selection-start="69" selection-end="428" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -548,7 +501,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/snippet1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="1" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0">
+        <state line="1" column="0" selection-start="28" selection-end="280" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -557,7 +510,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/snippet2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="1" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0">
+        <state line="2" column="0" selection-start="27" selection-end="281" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -573,16 +526,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/namur.js">
+    <entry file="file://$PROJECT_DIR$/namur/trains.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="138" column="35" selection-start="3779" selection-end="3779" vertical-scroll-proportion="0.0">
+        <state line="2" column="43" selection-start="41" selection-end="51" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/namur/trains.json">
+    <entry file="file://$PROJECT_DIR$/snippet4.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="30" selection-start="28" selection-end="38" vertical-scroll-proportion="0.09235669">
+        <state line="1" column="0" selection-start="32" selection-end="448" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippet5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="35" selection-end="99" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trains.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="40" selection-start="2449" selection-end="2472" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/namur.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="20" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google-analytics.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trains.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="294" selection-end="341" vertical-scroll-proportion="-6.0263157">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/namur.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="47" selection-start="340" selection-end="340" vertical-scroll-proportion="-6.868421">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="51" selection-start="334" selection-end="334" vertical-scroll-proportion="0.47027028">
           <folding />
         </state>
       </provider>
