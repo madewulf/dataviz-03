@@ -120,24 +120,27 @@ $(function () {
                     move = "L"
                 path = path + " " + move + " " + x + " " + y;
             }
-            var p = paper.path(path).attr({stroke:"#fff", "stroke-width":2});
+            var p = paper.path(path).attr({stroke:"#eee", "stroke-width":2});
             $(p.node).mousemove(get_train_hover_handler(p));
             $(p.node).mouseout(get_train_out_handler(p));
             p.toBack();
         }
+        for (var town in distances) {
+                var y = station_to_y(town);
+                paper.text(100, y, town).attr({fill:"#fff", stroke:"#fff", "font-size":14});
+                var path = "M 180 " + y + " H " + 2400;
+                p = paper.path(path).attr({"stroke":"#444"});
+                p.toBack();
+            }
+
+            for (var hour in hours) {
+                var x = time_to_x(hours[hour]);
+                paper.text(x, 10, hour + "h").attr({fill:"#fff", stroke:"#fff", "font-size":14});
+                var path = "M  " + x + " 30  V " + 768;
+                p = paper.path(path).attr({"stroke":"#444"});
+                p.toBack();
+            }
     });
 
-    for (var town in distances) {
-        var y = station_to_y(town);
-        paper.text(100, y, town).attr({fill:"#fff", stroke:"#fff", "font-size":14});
-        var path = "M 180 " + y + " H " + 2400;
-        paper.path(path).attr({"stroke":"#666"});
-    }
 
-    for (var hour in hours) {
-        var x = time_to_x(hours[hour]);
-        paper.text(x, 10, hour + "h").attr({fill:"#fff", stroke:"#fff", "font-size":14});
-        var path = "M  " + x + " 30  V " + 768;
-        paper.path(path).attr({"stroke":"#666"});
-    }
 });
